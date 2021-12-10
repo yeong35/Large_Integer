@@ -1,6 +1,8 @@
 # Large_Integer
 Java의 32bit 정수형보다 더 큰 정수형을 담는 자료형
 
+으녕이가 고양이보다 귀엽다
+
 Large_Integer 사용법
 
 Large_Integer 객체를 선언한다. 이때 new Large_Integer("n"), new Large_Integer()로 선언한다.
